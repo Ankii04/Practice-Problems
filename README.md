@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ankii04/Practice-Problems/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/Ankii04/Practice-Problems/tree/master/0014-longest-common-prefix) |
 | [0066-plus-one](https://github.com/Ankii04/Practice-Problems/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/Ankii04/Practice-Problems/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Ankii04/Practice-Problems/tree/master/0169-majority-element) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Ankii04/Practice-Problems/tree/master/0014-longest-common-prefix) |
 | [0067-add-binary](https://github.com/Ankii04/Practice-Problems/tree/master/0067-add-binary) |
 ## Simulation
 |  |
@@ -77,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ankii04/Practice-Problems/tree/master/0002-add-two-numbers) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Ankii04/Practice-Problems/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->

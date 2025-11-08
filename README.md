@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Ankii04/Practice-Problems/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Ankii04/Practice-Problems/tree/master/0014-longest-common-prefix) |
 | [0066-plus-one](https://github.com/Ankii04/Practice-Problems/tree/master/0066-plus-one) |
+| [0118-pascals-triangle](https://github.com/Ankii04/Practice-Problems/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/Ankii04/Practice-Problems/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Ankii04/Practice-Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Ankii04/Practice-Problems/tree/master/0217-contains-duplicate) |
@@ -83,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Ankii04/Practice-Problems/tree/master/0014-longest-common-prefix) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/Ankii04/Practice-Problems/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->

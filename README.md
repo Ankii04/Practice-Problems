@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Ankii04/Practice-Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Ankii04/Practice-Problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Ankii04/Practice-Problems/tree/master/0219-contains-duplicate-ii) |
+| [3221-find-the-peaks](https://github.com/Ankii04/Practice-Problems/tree/master/3221-find-the-peaks) |
 ## Hash Table
 |  |
 | ------- |
@@ -114,4 +115,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ankii04/Practice-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Enumeration
+|  |
+| ------- |
+| [3221-find-the-peaks](https://github.com/Ankii04/Practice-Problems/tree/master/3221-find-the-peaks) |
 <!---LeetCode Topics End-->

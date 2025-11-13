@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Ankii04/Practice-Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Ankii04/Practice-Problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Ankii04/Practice-Problems/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/Ankii04/Practice-Problems/tree/master/0268-missing-number) |
 | [3221-find-the-peaks](https://github.com/Ankii04/Practice-Problems/tree/master/3221-find-the-peaks) |
 ## Hash Table
 |  |
@@ -22,11 +23,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Ankii04/Practice-Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Ankii04/Practice-Problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Ankii04/Practice-Problems/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/Ankii04/Practice-Problems/tree/master/0268-missing-number) |
 ## Sorting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Ankii04/Practice-Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Ankii04/Practice-Problems/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Ankii04/Practice-Problems/tree/master/0268-missing-number) |
 ## Math
 |  |
 | ------- |
@@ -38,12 +41,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Ankii04/Practice-Problems/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/Ankii04/Practice-Problems/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Ankii04/Practice-Problems/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/Ankii04/Practice-Problems/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Ankii04/Practice-Problems/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Ankii04/Practice-Problems/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Ankii04/Practice-Problems/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Ankii04/Practice-Problems/tree/master/0268-missing-number) |
 | [1054-complement-of-base-10-integer](https://github.com/Ankii04/Practice-Problems/tree/master/1054-complement-of-base-10-integer) |
 ## Divide and Conquer
 |  |
@@ -107,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Ankii04/Practice-Problems/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/Ankii04/Practice-Problems/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |

@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Ankii04/Practice-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Ankii04/Practice-Problems/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/Ankii04/Practice-Problems/tree/master/0414-third-maximum-number) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/Ankii04/Practice-Problems/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Ankii04/Practice-Problems/tree/master/0882-peak-index-in-a-mountain-array) |
 | [3221-find-the-peaks](https://github.com/Ankii04/Practice-Problems/tree/master/3221-find-the-peaks) |
 | [4107-find-missing-elements](https://github.com/Ankii04/Practice-Problems/tree/master/4107-find-missing-elements) |

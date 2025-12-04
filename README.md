@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Ankii04/Practice-Problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Ankii04/Practice-Problems/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/Ankii04/Practice-Problems/tree/master/0414-third-maximum-number) |
+| [0506-relative-ranks](https://github.com/Ankii04/Practice-Problems/tree/master/0506-relative-ranks) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Ankii04/Practice-Problems/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Ankii04/Practice-Problems/tree/master/0882-peak-index-in-a-mountain-array) |
 | [3221-find-the-peaks](https://github.com/Ankii04/Practice-Problems/tree/master/3221-find-the-peaks) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Ankii04/Practice-Problems/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Ankii04/Practice-Problems/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/Ankii04/Practice-Problems/tree/master/0414-third-maximum-number) |
+| [0506-relative-ranks](https://github.com/Ankii04/Practice-Problems/tree/master/0506-relative-ranks) |
 | [4107-find-missing-elements](https://github.com/Ankii04/Practice-Problems/tree/master/4107-find-missing-elements) |
 ## Math
 |  |
@@ -165,4 +167,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ankii04/Practice-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0506-relative-ranks](https://github.com/Ankii04/Practice-Problems/tree/master/0506-relative-ranks) |
 <!---LeetCode Topics End-->

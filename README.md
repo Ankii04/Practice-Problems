@@ -82,15 +82,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Ankii04/Practice-Problems/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Ankii04/Practice-Problems/tree/master/0102-binary-tree-level-order-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ankii04/Practice-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Ankii04/Practice-Problems/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Ankii04/Practice-Problems/tree/master/0102-binary-tree-level-order-traversal) |
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Ankii04/Practice-Problems/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Ankii04/Practice-Problems/tree/master/0102-binary-tree-level-order-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ankii04/Practice-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## String
@@ -171,4 +174,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/Ankii04/Practice-Problems/tree/master/0506-relative-ranks) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Ankii04/Practice-Problems/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->

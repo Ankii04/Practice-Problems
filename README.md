@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Ankii04/Practice-Problems/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Ankii04/Practice-Problems/tree/master/0069-sqrtx) |
 | [0168-excel-sheet-column-title](https://github.com/Ankii04/Practice-Problems/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/Ankii04/Practice-Problems/tree/master/0171-excel-sheet-column-number) |
 | [0231-power-of-two](https://github.com/Ankii04/Practice-Problems/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Ankii04/Practice-Problems/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Ankii04/Practice-Problems/tree/master/0268-missing-number) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Ankii04/Practice-Problems/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Ankii04/Practice-Problems/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/Ankii04/Practice-Problems/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/Ankii04/Practice-Problems/tree/master/0171-excel-sheet-column-number) |
 | [1205-defanging-an-ip-address](https://github.com/Ankii04/Practice-Problems/tree/master/1205-defanging-an-ip-address) |
 ## Simulation
 |  |

@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Ankii04/Practice-Problems/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Ankii04/Practice-Problems/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ankii04/Practice-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/Ankii04/Practice-Problems/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Ankii04/Practice-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Ankii04/Practice-Problems/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/Ankii04/Practice-Problems/tree/master/0066-plus-one) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Ankii04/Practice-Problems/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ankii04/Practice-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ankii04/Practice-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0031-next-permutation](https://github.com/Ankii04/Practice-Problems/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Ankii04/Practice-Problems/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ankii04/Practice-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Ankii04/Practice-Problems/tree/master/0283-move-zeroes) |

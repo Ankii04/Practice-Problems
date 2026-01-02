@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0717-1-bit-and-2-bit-characters](https://github.com/Ankii04/Practice-Problems/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Ankii04/Practice-Problems/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Ankii04/Practice-Problems/tree/master/0882-peak-index-in-a-mountain-array) |
+| [1929-concatenation-of-array](https://github.com/Ankii04/Practice-Problems/tree/master/1929-concatenation-of-array) |
 | [3221-find-the-peaks](https://github.com/Ankii04/Practice-Problems/tree/master/3221-find-the-peaks) |
 | [4107-find-missing-elements](https://github.com/Ankii04/Practice-Problems/tree/master/4107-find-missing-elements) |
 ## Hash Table
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Ankii04/Practice-Problems/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Ankii04/Practice-Problems/tree/master/0258-add-digits) |
+| [1929-concatenation-of-array](https://github.com/Ankii04/Practice-Problems/tree/master/1929-concatenation-of-array) |
 ## Recursion
 |  |
 | ------- |

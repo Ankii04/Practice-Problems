@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Ankii04/Practice-Problems/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Ankii04/Practice-Problems/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Ankii04/Practice-Problems/tree/master/0268-missing-number) |
+| [0509-fibonacci-number](https://github.com/Ankii04/Practice-Problems/tree/master/0509-fibonacci-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Ankii04/Practice-Problems/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/Ankii04/Practice-Problems/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Ankii04/Practice-Problems/tree/master/0231-power-of-two) |
+| [0509-fibonacci-number](https://github.com/Ankii04/Practice-Problems/tree/master/0509-fibonacci-number) |
 ## Linked List
 |  |
 | ------- |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Ankii04/Practice-Problems/tree/master/0042-trapping-rain-water) |
 | [0118-pascals-triangle](https://github.com/Ankii04/Practice-Problems/tree/master/0118-pascals-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Ankii04/Practice-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0509-fibonacci-number](https://github.com/Ankii04/Practice-Problems/tree/master/0509-fibonacci-number) |
 ## Number Theory
 |  |
 | ------- |
@@ -200,4 +203,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Ankii04/Practice-Problems/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Ankii04/Practice-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Ankii04/Practice-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Ankii04/Practice-Problems/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->

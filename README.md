@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Ankii04/Practice-Problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Ankii04/Practice-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Ankii04/Practice-Problems/tree/master/0268-missing-number) |
+| [0409-longest-palindrome](https://github.com/Ankii04/Practice-Problems/tree/master/0409-longest-palindrome) |
 | [4107-find-missing-elements](https://github.com/Ankii04/Practice-Problems/tree/master/4107-find-missing-elements) |
 ## Sorting
 |  |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Ankii04/Practice-Problems/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/Ankii04/Practice-Problems/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Ankii04/Practice-Problems/tree/master/0171-excel-sheet-column-number) |
+| [0409-longest-palindrome](https://github.com/Ankii04/Practice-Problems/tree/master/0409-longest-palindrome) |
 | [1108-defanging-an-ip-address](https://github.com/Ankii04/Practice-Problems/tree/master/1108-defanging-an-ip-address) |
 | [1205-defanging-an-ip-address](https://github.com/Ankii04/Practice-Problems/tree/master/1205-defanging-an-ip-address) |
 ## Simulation
@@ -218,4 +220,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Ankii04/Practice-Problems/tree/master/0509-fibonacci-number) |
+## Greedy
+|  |
+| ------- |
+| [0409-longest-palindrome](https://github.com/Ankii04/Practice-Problems/tree/master/0409-longest-palindrome) |
 <!---LeetCode Topics End-->

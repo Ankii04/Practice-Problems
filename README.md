@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Ankii04/Practice-Problems/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/Ankii04/Practice-Problems/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Ankii04/Practice-Problems/tree/master/0171-excel-sheet-column-number) |
+| [1108-defanging-an-ip-address](https://github.com/Ankii04/Practice-Problems/tree/master/1108-defanging-an-ip-address) |
 | [1205-defanging-an-ip-address](https://github.com/Ankii04/Practice-Problems/tree/master/1205-defanging-an-ip-address) |
 ## Simulation
 |  |

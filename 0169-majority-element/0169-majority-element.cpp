@@ -1,14 +1,24 @@
-#include <bits/stdc++.h>
-using namespace std;
 class Solution {
 public:
     int majorityElement(vector<int>& nums) {
-        int count=0, candidate=0;
-        for(int num:nums){
-            if(count==0) candidate=num;
-            count+=(num==candidate)?1:-1;
+        int n = nums.size();
+        int count = 0,maj = NULL;
+        for(int i=0;i<n;i++)
+        {
+            if(count==0)
+            {
+                count=1;
+                maj = nums[i];
+            }
+            else if(nums[i]==maj)
+            {
+                count++;
+            }
+            else
+            {
+                count--;
+            }
         }
-        return candidate;
+        return maj;
     }
 };
-

@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Ankii04/Practice-Problems/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Ankii04/Practice-Problems/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Ankii04/Practice-Problems/tree/master/0066-plus-one) |
+| [0074-search-a-2d-matrix](https://github.com/Ankii04/Practice-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ankii04/Practice-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/Ankii04/Practice-Problems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ankii04/Practice-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Ankii04/Practice-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/Ankii04/Practice-Problems/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/Ankii04/Practice-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ankii04/Practice-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ankii04/Practice-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Ankii04/Practice-Problems/tree/master/0268-missing-number) |
@@ -238,4 +240,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Ankii04/Practice-Problems/tree/master/0238-product-of-array-except-self) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/Ankii04/Practice-Problems/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->

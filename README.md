@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Ankii04/Practice-Problems/tree/master/0409-longest-palindrome) |
 | [1108-defanging-an-ip-address](https://github.com/Ankii04/Practice-Problems/tree/master/1108-defanging-an-ip-address) |
 | [1205-defanging-an-ip-address](https://github.com/Ankii04/Practice-Problems/tree/master/1205-defanging-an-ip-address) |
+| [1392-longest-happy-prefix](https://github.com/Ankii04/Practice-Problems/tree/master/1392-longest-happy-prefix) |
 ## Simulation
 |  |
 | ------- |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ankii04/Practice-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [1392-longest-happy-prefix](https://github.com/Ankii04/Practice-Problems/tree/master/1392-longest-happy-prefix) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -287,4 +289,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Ankii04/Practice-Problems/tree/master/0200-number-of-islands) |
+## Rolling Hash
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/Ankii04/Practice-Problems/tree/master/1392-longest-happy-prefix) |
+## Hash Function
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/Ankii04/Practice-Problems/tree/master/1392-longest-happy-prefix) |
 <!---LeetCode Topics End-->

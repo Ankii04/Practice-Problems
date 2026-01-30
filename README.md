@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Ankii04/Practice-Problems/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/Ankii04/Practice-Problems/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Ankii04/Practice-Problems/tree/master/0200-number-of-islands) |
+| [0209-minimum-size-subarray-sum](https://github.com/Ankii04/Practice-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/Ankii04/Practice-Problems/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/Ankii04/Practice-Problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Ankii04/Practice-Problems/tree/master/0219-contains-duplicate-ii) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ankii04/Practice-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/Ankii04/Practice-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Ankii04/Practice-Problems/tree/master/0219-contains-duplicate-ii) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Ankii04/Practice-Problems/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Ankii04/Practice-Problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Ankii04/Practice-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ankii04/Practice-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ankii04/Practice-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/Ankii04/Practice-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Ankii04/Practice-Problems/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/Ankii04/Practice-Problems/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Ankii04/Practice-Problems/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -290,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Ankii04/Practice-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Ankii04/Practice-Problems/tree/master/0238-product-of-array-except-self) |
 ## Matrix
 |  |

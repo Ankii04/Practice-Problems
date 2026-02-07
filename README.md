@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/Ankii04/Practice-Problems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Ankii04/Practice-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ankii04/Practice-Problems/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Ankii04/Practice-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0450-delete-node-in-a-bst](https://github.com/Ankii04/Practice-Problems/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Ankii04/Practice-Problems/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/Ankii04/Practice-Problems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Ankii04/Practice-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ankii04/Practice-Problems/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Ankii04/Practice-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0450-delete-node-in-a-bst](https://github.com/Ankii04/Practice-Problems/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Ankii04/Practice-Problems/tree/master/0543-diameter-of-binary-tree) |
 ## String
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Ankii04/Practice-Problems/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Ankii04/Practice-Problems/tree/master/0042-trapping-rain-water) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ankii04/Practice-Problems/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Ankii04/Practice-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -290,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/Ankii04/Practice-Problems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Ankii04/Practice-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ankii04/Practice-Problems/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Ankii04/Practice-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/Ankii04/Practice-Problems/tree/master/0200-number-of-islands) |
 | [0543-diameter-of-binary-tree](https://github.com/Ankii04/Practice-Problems/tree/master/0543-diameter-of-binary-tree) |
 ## Memoization

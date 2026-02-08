@@ -271,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Ankii04/Practice-Problems/tree/master/0042-trapping-rain-water) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ankii04/Practice-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ankii04/Practice-Problems/tree/master/0145-binary-tree-postorder-traversal) |
+| [0155-min-stack](https://github.com/Ankii04/Practice-Problems/tree/master/0155-min-stack) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -335,4 +336,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1392-longest-happy-prefix](https://github.com/Ankii04/Practice-Problems/tree/master/1392-longest-happy-prefix) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Ankii04/Practice-Problems/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->

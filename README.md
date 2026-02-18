@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/Ankii04/Practice-Problems/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/Ankii04/Practice-Problems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Ankii04/Practice-Problems/tree/master/0268-missing-number) |
+| [0693-binary-number-with-alternating-bits](https://github.com/Ankii04/Practice-Problems/tree/master/0693-binary-number-with-alternating-bits) |
 | [1054-complement-of-base-10-integer](https://github.com/Ankii04/Practice-Problems/tree/master/1054-complement-of-base-10-integer) |
 ## Divide and Conquer
 |  |

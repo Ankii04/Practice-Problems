@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Ankii04/Practice-Problems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Ankii04/Practice-Problems/tree/master/0210-course-schedule-ii) |
 | [0542-01-matrix](https://github.com/Ankii04/Practice-Problems/tree/master/0542-01-matrix) |
+| [0785-is-graph-bipartite](https://github.com/Ankii04/Practice-Problems/tree/master/0785-is-graph-bipartite) |
 | [0994-rotting-oranges](https://github.com/Ankii04/Practice-Problems/tree/master/0994-rotting-oranges) |
 ## Binary Tree
 |  |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Ankii04/Practice-Problems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Ankii04/Practice-Problems/tree/master/0210-course-schedule-ii) |
 | [0543-diameter-of-binary-tree](https://github.com/Ankii04/Practice-Problems/tree/master/0543-diameter-of-binary-tree) |
+| [0785-is-graph-bipartite](https://github.com/Ankii04/Practice-Problems/tree/master/0785-is-graph-bipartite) |
 | [1382-balance-a-binary-search-tree](https://github.com/Ankii04/Practice-Problems/tree/master/1382-balance-a-binary-search-tree) |
 ## Memoization
 |  |
@@ -351,11 +353,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/Ankii04/Practice-Problems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Ankii04/Practice-Problems/tree/master/0210-course-schedule-ii) |
+| [0785-is-graph-bipartite](https://github.com/Ankii04/Practice-Problems/tree/master/0785-is-graph-bipartite) |
 | [1791-find-center-of-star-graph](https://github.com/Ankii04/Practice-Problems/tree/master/1791-find-center-of-star-graph) |
 ## Union-Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Ankii04/Practice-Problems/tree/master/0200-number-of-islands) |
+| [0785-is-graph-bipartite](https://github.com/Ankii04/Practice-Problems/tree/master/0785-is-graph-bipartite) |
 ## Rolling Hash
 |  |
 | ------- |

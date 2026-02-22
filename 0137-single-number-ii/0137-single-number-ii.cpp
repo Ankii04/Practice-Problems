@@ -1,18 +1,12 @@
 class Solution {
 public:
     int singleNumber(vector<int>& nums) {
-        unordered_map<int,int>mp;
+        int one = 0 , two = 0;
         for(int i=0;i<nums.size();i++)
         {
-            mp[nums[i]]++;
+            one = (one ^ nums[i]) & ~two;
+            two = (two ^ nums[i]) & ~one;
         }
-        for(auto it: mp)
-        {
-            if(it.second==1)
-            {
-                return it.first;
-            }
-        }
-        return 0;
+        return one;
     }
 };

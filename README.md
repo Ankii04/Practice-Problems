@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Ankii04/Practice-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Ankii04/Practice-Problems/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Ankii04/Practice-Problems/tree/master/0238-product-of-array-except-self) |
+| [0260-single-number-iii](https://github.com/Ankii04/Practice-Problems/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Ankii04/Practice-Problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Ankii04/Practice-Problems/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/Ankii04/Practice-Problems/tree/master/0414-third-maximum-number) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/Ankii04/Practice-Problems/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Ankii04/Practice-Problems/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Ankii04/Practice-Problems/tree/master/0231-power-of-two) |
+| [0260-single-number-iii](https://github.com/Ankii04/Practice-Problems/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Ankii04/Practice-Problems/tree/master/0268-missing-number) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Ankii04/Practice-Problems/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Ankii04/Practice-Problems/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |

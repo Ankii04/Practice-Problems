@@ -1,19 +1,25 @@
 class Solution {
 public:
     vector<int> singleNumber(vector<int>& nums) {
-        unordered_map<int,int>mp;
-        vector<int>ans;
         int n = nums.size();
+        int xorr = 0;
         for(int i=0;i<n;i++)
         {
-            mp[nums[i]]++;
+            xorr = xorr ^ nums[i];
         }
-        for(auto it: mp){
-            if(it.second==1)
+        unsigned int righmost = (unsigned int)xorr & (-(unsigned int)xorr);
+        int b = 0 , c =0;
+        for(int i=0;i<n;i++)
+        {
+            if(nums[i]&righmost)
             {
-                ans.push_back(it.first);
+                b = b ^ nums[i];
+            }
+            else
+            {
+                c = c ^ nums[i];
             }
         }
-        return ans;
+        return {b,c};
     }
 };

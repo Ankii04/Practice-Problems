@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Ankii04/Practice-Problems/tree/master/0268-missing-number) |
 | [0409-longest-palindrome](https://github.com/Ankii04/Practice-Problems/tree/master/0409-longest-palindrome) |
 | [0496-next-greater-element-i](https://github.com/Ankii04/Practice-Problems/tree/master/0496-next-greater-element-i) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Ankii04/Practice-Problems/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Ankii04/Practice-Problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3719-longest-balanced-subarray-i](https://github.com/Ankii04/Practice-Problems/tree/master/3719-longest-balanced-subarray-i) |
 | [4107-find-missing-elements](https://github.com/Ankii04/Practice-Problems/tree/master/4107-find-missing-elements) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Ankii04/Practice-Problems/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/Ankii04/Practice-Problems/tree/master/0868-binary-gap) |
 | [1054-complement-of-base-10-integer](https://github.com/Ankii04/Practice-Problems/tree/master/1054-complement-of-base-10-integer) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Ankii04/Practice-Problems/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1486-xor-operation-in-an-array](https://github.com/Ankii04/Practice-Problems/tree/master/1486-xor-operation-in-an-array) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Ankii04/Practice-Problems/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Divide and Conquer
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1108-defanging-an-ip-address](https://github.com/Ankii04/Practice-Problems/tree/master/1108-defanging-an-ip-address) |
 | [1205-defanging-an-ip-address](https://github.com/Ankii04/Practice-Problems/tree/master/1205-defanging-an-ip-address) |
 | [1392-longest-happy-prefix](https://github.com/Ankii04/Practice-Problems/tree/master/1392-longest-happy-prefix) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Ankii04/Practice-Problems/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Simulation
 |  |
 | ------- |
@@ -378,10 +381,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1392-longest-happy-prefix](https://github.com/Ankii04/Practice-Problems/tree/master/1392-longest-happy-prefix) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Ankii04/Practice-Problems/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Hash Function
 |  |
 | ------- |
 | [1392-longest-happy-prefix](https://github.com/Ankii04/Practice-Problems/tree/master/1392-longest-happy-prefix) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Ankii04/Practice-Problems/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Design
 |  |
 | ------- |

@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0882-peak-index-in-a-mountain-array](https://github.com/Ankii04/Practice-Problems/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0994-rotting-oranges](https://github.com/Ankii04/Practice-Problems/tree/master/0994-rotting-oranges) |
 | [1200-minimum-absolute-difference](https://github.com/Ankii04/Practice-Problems/tree/master/1200-minimum-absolute-difference) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Ankii04/Practice-Problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Ankii04/Practice-Problems/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Ankii04/Practice-Problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1929-concatenation-of-array](https://github.com/Ankii04/Practice-Problems/tree/master/1929-concatenation-of-array) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Ankii04/Practice-Problems/tree/master/0414-third-maximum-number) |
 | [0506-relative-ranks](https://github.com/Ankii04/Practice-Problems/tree/master/0506-relative-ranks) |
 | [1200-minimum-absolute-difference](https://github.com/Ankii04/Practice-Problems/tree/master/1200-minimum-absolute-difference) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Ankii04/Practice-Problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Ankii04/Practice-Problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Ankii04/Practice-Problems/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [4107-find-missing-elements](https://github.com/Ankii04/Practice-Problems/tree/master/4107-find-missing-elements) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Ankii04/Practice-Problems/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/Ankii04/Practice-Problems/tree/master/0868-binary-gap) |
 | [1054-complement-of-base-10-integer](https://github.com/Ankii04/Practice-Problems/tree/master/1054-complement-of-base-10-integer) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Ankii04/Practice-Problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Ankii04/Practice-Problems/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1486-xor-operation-in-an-array](https://github.com/Ankii04/Practice-Problems/tree/master/1486-xor-operation-in-an-array) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Ankii04/Practice-Problems/tree/master/2220-minimum-bit-flips-to-convert-number) |
@@ -146,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Ankii04/Practice-Problems/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Ankii04/Practice-Problems/tree/master/0229-majority-element-ii) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Ankii04/Practice-Problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Sliding Window
 |  |
 | ------- |

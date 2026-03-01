@@ -1,11 +1,16 @@
 class Solution {
 public:
-    TreeNode* build(vector<int>& nums, int l, int r) {
-        if(l > r) return nullptr;
-        int mid = (l + r) / 2;
+    TreeNode* build(vector<int>& nums, int left, int right) {
+        if(left > right)
+            return NULL;
+
+        int mid = left + (right - left) / 2;
+
         TreeNode* root = new TreeNode(nums[mid]);
-        root->left = build(nums, l, mid - 1);
-        root->right = build(nums, mid + 1, r);
+
+        root->left = build(nums, left, mid - 1);
+        root->right = build(nums, mid + 1, right);
+
         return root;
     }
 

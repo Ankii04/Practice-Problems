@@ -244,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Ankii04/Practice-Problems/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Ankii04/Practice-Problems/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Ankii04/Practice-Problems/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
+| [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Ankii04/Practice-Problems/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 ## Simulation
 |  |
 | ------- |

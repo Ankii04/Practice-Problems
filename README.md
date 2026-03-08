@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Ankii04/Practice-Problems/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Ankii04/Practice-Problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1929-concatenation-of-array](https://github.com/Ankii04/Practice-Problems/tree/master/1929-concatenation-of-array) |
+| [1980-find-unique-binary-string](https://github.com/Ankii04/Practice-Problems/tree/master/1980-find-unique-binary-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Ankii04/Practice-Problems/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Ankii04/Practice-Problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3221-find-the-peaks](https://github.com/Ankii04/Practice-Problems/tree/master/3221-find-the-peaks) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Ankii04/Practice-Problems/tree/master/0496-next-greater-element-i) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Ankii04/Practice-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Ankii04/Practice-Problems/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1980-find-unique-binary-string](https://github.com/Ankii04/Practice-Problems/tree/master/1980-find-unique-binary-string) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Ankii04/Practice-Problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3719-longest-balanced-subarray-i](https://github.com/Ankii04/Practice-Problems/tree/master/3719-longest-balanced-subarray-i) |
 | [4107-find-missing-elements](https://github.com/Ankii04/Practice-Problems/tree/master/4107-find-missing-elements) |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Ankii04/Practice-Problems/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Ankii04/Practice-Problems/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Ankii04/Practice-Problems/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [1980-find-unique-binary-string](https://github.com/Ankii04/Practice-Problems/tree/master/1980-find-unique-binary-string) |
 ## Simulation
 |  |
 | ------- |
@@ -452,4 +455,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Ankii04/Practice-Problems/tree/master/0173-binary-search-tree-iterator) |
+## Backtracking
+|  |
+| ------- |
+| [1980-find-unique-binary-string](https://github.com/Ankii04/Practice-Problems/tree/master/1980-find-unique-binary-string) |
 <!---LeetCode Topics End-->

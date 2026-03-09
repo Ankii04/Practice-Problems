@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/Ankii04/Practice-Problems/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Ankii04/Practice-Problems/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0994-rotting-oranges](https://github.com/Ankii04/Practice-Problems/tree/master/0994-rotting-oranges) |
+| [1004-max-consecutive-ones-iii](https://github.com/Ankii04/Practice-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ankii04/Practice-Problems/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1200-minimum-absolute-difference](https://github.com/Ankii04/Practice-Problems/tree/master/1200-minimum-absolute-difference) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Ankii04/Practice-Problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ankii04/Practice-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Ankii04/Practice-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Ankii04/Practice-Problems/tree/master/0219-contains-duplicate-ii) |
+| [1004-max-consecutive-ones-iii](https://github.com/Ankii04/Practice-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Ankii04/Practice-Problems/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Ankii04/Practice-Problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Tree
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Ankii04/Practice-Problems/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Ankii04/Practice-Problems/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Ankii04/Practice-Problems/tree/master/0882-peak-index-in-a-mountain-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/Ankii04/Practice-Problems/tree/master/1004-max-consecutive-ones-iii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -407,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Ankii04/Practice-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Ankii04/Practice-Problems/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/Ankii04/Practice-Problems/tree/master/0724-find-pivot-index) |
+| [1004-max-consecutive-ones-iii](https://github.com/Ankii04/Practice-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Ankii04/Practice-Problems/tree/master/3719-longest-balanced-subarray-i) |
 ## Matrix
 |  |

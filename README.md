@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/Ankii04/Practice-Problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1486-xor-operation-in-an-array](https://github.com/Ankii04/Practice-Problems/tree/master/1486-xor-operation-in-an-array) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Ankii04/Practice-Problems/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Ankii04/Practice-Problems/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Ankii04/Practice-Problems/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Ankii04/Practice-Problems/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1980-find-unique-binary-string](https://github.com/Ankii04/Practice-Problems/tree/master/1980-find-unique-binary-string) |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Ankii04/Practice-Problems/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Simulation
 |  |
 | ------- |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Ankii04/Practice-Problems/tree/master/0735-asteroid-collision) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Ankii04/Practice-Problems/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1929-concatenation-of-array](https://github.com/Ankii04/Practice-Problems/tree/master/1929-concatenation-of-array) |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Ankii04/Practice-Problems/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Recursion
 |  |
 | ------- |
@@ -316,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Ankii04/Practice-Problems/tree/master/0258-add-digits) |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Ankii04/Practice-Problems/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -490,4 +494,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1980-find-unique-binary-string](https://github.com/Ankii04/Practice-Problems/tree/master/1980-find-unique-binary-string) |
+## Combinatorics
+|  |
+| ------- |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Ankii04/Practice-Problems/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 <!---LeetCode Topics End-->

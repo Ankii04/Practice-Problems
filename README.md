@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Ankii04/Practice-Problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3221-find-the-peaks](https://github.com/Ankii04/Practice-Problems/tree/master/3221-find-the-peaks) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Ankii04/Practice-Problems/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3643-flip-square-submatrix-vertically](https://github.com/Ankii04/Practice-Problems/tree/master/3643-flip-square-submatrix-vertically) |
 | [3719-longest-balanced-subarray-i](https://github.com/Ankii04/Practice-Problems/tree/master/3719-longest-balanced-subarray-i) |
 | [4107-find-missing-elements](https://github.com/Ankii04/Practice-Problems/tree/master/4107-find-missing-elements) |
 ## Hash Table
@@ -349,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Ankii04/Practice-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0876-middle-of-the-linked-list](https://github.com/Ankii04/Practice-Problems/tree/master/0876-middle-of-the-linked-list) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Ankii04/Practice-Problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [3643-flip-square-submatrix-vertically](https://github.com/Ankii04/Practice-Problems/tree/master/3643-flip-square-submatrix-vertically) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -443,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Ankii04/Practice-Problems/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/Ankii04/Practice-Problems/tree/master/0542-01-matrix) |
 | [0994-rotting-oranges](https://github.com/Ankii04/Practice-Problems/tree/master/0994-rotting-oranges) |
+| [3643-flip-square-submatrix-vertically](https://github.com/Ankii04/Practice-Problems/tree/master/3643-flip-square-submatrix-vertically) |
 ## Graph Theory
 |  |
 | ------- |

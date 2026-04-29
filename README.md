@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Ankii04/Practice-Problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Ankii04/Practice-Problems/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/Ankii04/Practice-Problems/tree/master/0414-third-maximum-number) |
+| [0455-assign-cookies](https://github.com/Ankii04/Practice-Problems/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/Ankii04/Practice-Problems/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/Ankii04/Practice-Problems/tree/master/0506-relative-ranks) |
 | [0542-01-matrix](https://github.com/Ankii04/Practice-Problems/tree/master/0542-01-matrix) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Ankii04/Practice-Problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Ankii04/Practice-Problems/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/Ankii04/Practice-Problems/tree/master/0414-third-maximum-number) |
+| [0455-assign-cookies](https://github.com/Ankii04/Practice-Problems/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/Ankii04/Practice-Problems/tree/master/0506-relative-ranks) |
 | [1200-minimum-absolute-difference](https://github.com/Ankii04/Practice-Problems/tree/master/1200-minimum-absolute-difference) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Ankii04/Practice-Problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -356,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Ankii04/Practice-Problems/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Ankii04/Practice-Problems/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Ankii04/Practice-Problems/tree/master/0283-move-zeroes) |
+| [0455-assign-cookies](https://github.com/Ankii04/Practice-Problems/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Ankii04/Practice-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0876-middle-of-the-linked-list](https://github.com/Ankii04/Practice-Problems/tree/master/0876-middle-of-the-linked-list) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Ankii04/Practice-Problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -436,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/Ankii04/Practice-Problems/tree/master/0409-longest-palindrome) |
+| [0455-assign-cookies](https://github.com/Ankii04/Practice-Problems/tree/master/0455-assign-cookies) |
 | [1382-balance-a-binary-search-tree](https://github.com/Ankii04/Practice-Problems/tree/master/1382-balance-a-binary-search-tree) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Ankii04/Practice-Problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Ankii04/Practice-Problems/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |

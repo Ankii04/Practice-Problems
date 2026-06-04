@@ -1,11 +1,18 @@
 class Solution {
 public:
     int singleNumber(vector<int>& nums) {
-        int x = 0;
+        map<int,int>mp;
         for(int i=0;i<nums.size();i++)
         {
-            x=x ^ nums[i];
+            mp[nums[i]]++;
         }
-        return x;
+        for(int i=0;i<nums.size();i++)
+        {
+            if(mp[nums[i]]==1)
+            {
+                return nums[i];
+            }
+        }
+        return -1;
     }
 };

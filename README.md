@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1486-xor-operation-in-an-array](https://github.com/Ankii04/Practice-Problems/tree/master/1486-xor-operation-in-an-array) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Ankii04/Practice-Problems/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Ankii04/Practice-Problems/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Ankii04/Practice-Problems/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0377-combination-sum-iv](https://github.com/Ankii04/Practice-Problems/tree/master/0377-combination-sum-iv) |
 | [0509-fibonacci-number](https://github.com/Ankii04/Practice-Problems/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/Ankii04/Practice-Problems/tree/master/0542-01-matrix) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Ankii04/Practice-Problems/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Number Theory
 |  |
 | ------- |
@@ -383,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3221-find-the-peaks](https://github.com/Ankii04/Practice-Problems/tree/master/3221-find-the-peaks) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Ankii04/Practice-Problems/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Stack
 |  |
 | ------- |

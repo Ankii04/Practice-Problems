@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Ankii04/Practice-Problems/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/Ankii04/Practice-Problems/tree/master/0735-asteroid-collision) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Ankii04/Practice-Problems/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0860-lemonade-change](https://github.com/Ankii04/Practice-Problems/tree/master/0860-lemonade-change) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Ankii04/Practice-Problems/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0904-fruit-into-baskets](https://github.com/Ankii04/Practice-Problems/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Ankii04/Practice-Problems/tree/master/0992-subarrays-with-k-different-integers) |
@@ -446,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0409-longest-palindrome](https://github.com/Ankii04/Practice-Problems/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/Ankii04/Practice-Problems/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/Ankii04/Practice-Problems/tree/master/0860-lemonade-change) |
 | [1382-balance-a-binary-search-tree](https://github.com/Ankii04/Practice-Problems/tree/master/1382-balance-a-binary-search-tree) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Ankii04/Practice-Problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Ankii04/Practice-Problems/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |

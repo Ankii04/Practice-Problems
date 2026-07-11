@@ -1,8 +1,16 @@
 class Solution {
 public:
+
+    int bs(vector<int>&nums,int low,int high,int target)
+    {
+        if(low>high)return -1;
+        int mid = low + (high - low)/2;
+        if(nums[mid]==target)return mid;
+        else if(nums[mid]<target)return bs(nums,mid+1,high,target);
+        return bs(nums,low,mid-1,target);
+    }
+
     int search(vector<int>& nums, int target) {
-       auto lb = lower_bound(nums.begin(),nums.end(),target);
-       if(lb==nums.end() || *lb!=target)return -1;
-       return lb - nums.begin();
+        return bs(nums,0,nums.size()-1,target);
     }
 };

@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Ankii04/Practice-Problems/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Ankii04/Practice-Problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1486-xor-operation-in-an-array](https://github.com/Ankii04/Practice-Problems/tree/master/1486-xor-operation-in-an-array) |
+| [2396-strictly-palindromic-number](https://github.com/Ankii04/Practice-Problems/tree/master/2396-strictly-palindromic-number) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Ankii04/Practice-Problems/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Ankii04/Practice-Problems/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Ankii04/Practice-Problems/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -379,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Ankii04/Practice-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0876-middle-of-the-linked-list](https://github.com/Ankii04/Practice-Problems/tree/master/0876-middle-of-the-linked-list) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Ankii04/Practice-Problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2396-strictly-palindromic-number](https://github.com/Ankii04/Practice-Problems/tree/master/2396-strictly-palindromic-number) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Ankii04/Practice-Problems/tree/master/3643-flip-square-submatrix-vertically) |
 ## Binary Search Tree
 |  |
@@ -536,4 +538,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ankii04/Practice-Problems/tree/master/0215-kth-largest-element-in-an-array) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/Ankii04/Practice-Problems/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->

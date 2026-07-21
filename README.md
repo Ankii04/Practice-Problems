@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Ankii04/Practice-Problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3221-find-the-peaks](https://github.com/Ankii04/Practice-Problems/tree/master/3221-find-the-peaks) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Ankii04/Practice-Problems/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3394-check-if-grid-can-be-cut-into-sections](https://github.com/Ankii04/Practice-Problems/tree/master/3394-check-if-grid-can-be-cut-into-sections) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Ankii04/Practice-Problems/tree/master/3643-flip-square-submatrix-vertically) |
 | [3719-longest-balanced-subarray-i](https://github.com/Ankii04/Practice-Problems/tree/master/3719-longest-balanced-subarray-i) |
 | [4107-find-missing-elements](https://github.com/Ankii04/Practice-Problems/tree/master/4107-find-missing-elements) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Ankii04/Practice-Problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Ankii04/Practice-Problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Ankii04/Practice-Problems/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [3394-check-if-grid-can-be-cut-into-sections](https://github.com/Ankii04/Practice-Problems/tree/master/3394-check-if-grid-can-be-cut-into-sections) |
 | [4107-find-missing-elements](https://github.com/Ankii04/Practice-Problems/tree/master/4107-find-missing-elements) |
 ## Math
 |  |

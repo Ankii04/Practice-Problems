@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Ankii04/Practice-Problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Ankii04/Practice-Problems/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3394-check-if-grid-can-be-cut-into-sections](https://github.com/Ankii04/Practice-Problems/tree/master/3394-check-if-grid-can-be-cut-into-sections) |
+| [3536-maximum-product-of-two-digits](https://github.com/Ankii04/Practice-Problems/tree/master/3536-maximum-product-of-two-digits) |
 | [4107-find-missing-elements](https://github.com/Ankii04/Practice-Problems/tree/master/4107-find-missing-elements) |
 ## Math
 |  |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2396-strictly-palindromic-number](https://github.com/Ankii04/Practice-Problems/tree/master/2396-strictly-palindromic-number) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Ankii04/Practice-Problems/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Ankii04/Practice-Problems/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3536-maximum-product-of-two-digits](https://github.com/Ankii04/Practice-Problems/tree/master/3536-maximum-product-of-two-digits) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Ankii04/Practice-Problems/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Bit Manipulation
 |  |

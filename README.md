@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Ankii04/Practice-Problems/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/Ankii04/Practice-Problems/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Ankii04/Practice-Problems/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/Ankii04/Practice-Problems/tree/master/0338-counting-bits) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Ankii04/Practice-Problems/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Ankii04/Practice-Problems/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/Ankii04/Practice-Problems/tree/master/0868-binary-gap) |
@@ -366,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Ankii04/Practice-Problems/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Ankii04/Practice-Problems/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Ankii04/Practice-Problems/tree/master/0213-house-robber-ii) |
+| [0338-counting-bits](https://github.com/Ankii04/Practice-Problems/tree/master/0338-counting-bits) |
 | [0377-combination-sum-iv](https://github.com/Ankii04/Practice-Problems/tree/master/0377-combination-sum-iv) |
 | [0435-non-overlapping-intervals](https://github.com/Ankii04/Practice-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/Ankii04/Practice-Problems/tree/master/0509-fibonacci-number) |

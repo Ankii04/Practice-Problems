@@ -1,25 +1,24 @@
 class Solution {
 public:
-    int characterReplacement(string s, int k)   {
-        int maxlen = 0, l = 0 , r= 0 , maxfreq = 0;
-        vector<int>hash(26,0);
-        while(r<s.size())
-        {
-            hash[s[r]-'A']++;
-            maxfreq = max(maxfreq,hash[s[r]-'A']);
+    int characterReplacement(string s, int k) {
+        unordered_map<char,int>mp;
+        int l = 0;
+        int n = s.size();
+        int maxfreq = 0;
+        int ans = 0;
 
-            while((r-l+1)-maxfreq>k)
+        for(int i=0;i<n;i++)
+        {
+            mp[s[i]]++;
+
+            maxfreq = max(maxfreq,mp[s[i]]);
+            while((i-l+1)-maxfreq>k)
             {
-                hash[s[l]-'A']--;
-                l = l+1;
+                mp[s[l]]--;
+                l++;
             }
-            if((r-l+1)-maxfreq<=k)
-            {
-                maxlen = max(maxlen,r-l+1);
-                r++;
-            }
+            ans = max(ans,i-l+1);
         }
-        return maxlen;
-        
+        return ans;
     }
 };

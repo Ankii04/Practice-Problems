@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Ankii04/Practice-Problems/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Ankii04/Practice-Problems/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Ankii04/Practice-Problems/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/Ankii04/Practice-Problems/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Ankii04/Practice-Problems/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Ankii04/Practice-Problems/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/Ankii04/Practice-Problems/tree/master/0066-plus-one) |
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Ankii04/Practice-Problems/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Ankii04/Practice-Problems/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Ankii04/Practice-Problems/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Ankii04/Practice-Problems/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Ankii04/Practice-Problems/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Ankii04/Practice-Problems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ankii04/Practice-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -508,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Ankii04/Practice-Problems/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/Ankii04/Practice-Problems/tree/master/0055-jump-game) |
 | [0409-longest-palindrome](https://github.com/Ankii04/Practice-Problems/tree/master/0409-longest-palindrome) |
 | [0435-non-overlapping-intervals](https://github.com/Ankii04/Practice-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Ankii04/Practice-Problems/tree/master/0455-assign-cookies) |
